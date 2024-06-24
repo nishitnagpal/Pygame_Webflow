@@ -5,7 +5,7 @@ Webflow is the leading visual development platform for designing, building, and 
 
 The following are Pygame projects that I have added to a website designed with Webflow:
 
-[Snake Game](https://nishitnagpal.github.io/Pygame_Snake/): 
+[Snake Game](https://nishitnagpal.github.io/Pygame_Snake/): <br/>
 Github Repo - https://github.com/nishitnagpal/Pygame_Snake
 
 [Bricks Game](https://nishitnagpal.github.io/Pygame_bricks/): 
